@@ -1,14 +1,15 @@
+
 # Hi there 👋
 
 木更津高専(NITKC) 2025年度入学・機械工学科1年の学生です。  
-ロボット研究同好会で制御班をやっています。
+ロボット研究同好会で制御班を担当しています。
 
 - 🏫 学校: **木更津高専(NITKC)**
 - 📅 入学年度: **2025年度**
 - 🧭 学科: **機械工学科**
 - 🎓 学年: **1年生**
 - 🤖 所属: **ロボット研究同好会**
-- 𝕏 X: **[m51_5d327f](https://x.com/m51_5d327f)**
+- 𝕏: [m51_5d327f](https://x.com/m51_5d327f)
 
 ## 🛠 開発環境
 
@@ -20,40 +21,16 @@
 - Editor: **NeoVim**
 - Languages: **C/C++ / Lua / Nix / Python**
 
-## 📊 GitHub Profile Summary Cards
+## 📊 GitHub Profile Summary
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kaede-0323&theme=github_dark" alt="Profile Details" />
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kaede-0323&theme=github_dark" alt="Top Languages by Repo" />
-    </td>
-    <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kaede-0323&theme=github_dark" alt="Top Languages by Commit" />
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kaede-0323&theme=github_dark" alt="GitHub Stats" />
-    </td>
-    <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kaede-0323&theme=github_dark&utcOffset=9" alt="Productive Time" />
-    </td>
-  </tr>
-</table>
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kaede-0323&theme=github_dark)  
+![Top Languages by Repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kaede-0323&theme=github_dark)  
+![Top Languages by Commit](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kaede-0323&theme=github_dark)  
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kaede-0323&theme=github_dark)  
+![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kaede-0323&theme=github_dark&utcOffset=9)
 
 ## 📈 Other Popular Cards
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=kaede-0323&show_icons=true&theme=github_dark&rank_icon=github" alt="GitHub Readme Stats" />
-</p>
-
-<p>
-  <img src="https://streak-stats.demolab.com?user=kaede-0323&theme=github-dark-blue" alt="GitHub Streak Stats" />
-</p>
-
----
+![GitHub Readme Stats](https://github-readme-stats.vercel.app/api?username=kaede-0323&show_icons=true&theme=github_dark&rank_icon=github)  
+![GitHub Streak Stats](https://streak-stats.demolab.com?user=kaede-0323&theme=github-dark-blue)
+--
